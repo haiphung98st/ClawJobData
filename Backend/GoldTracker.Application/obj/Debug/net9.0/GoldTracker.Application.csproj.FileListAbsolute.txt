@@ -1,0 +1,16 @@
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/bin/Debug/net9.0/GoldTracker.Application.deps.json
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/bin/Debug/net9.0/GoldTracker.Application.dll
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/bin/Debug/net9.0/GoldTracker.Application.pdb
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/bin/Debug/net9.0/GoldTracker.Domain.dll
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/bin/Debug/net9.0/GoldTracker.Domain.pdb
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/obj/Debug/net9.0/GoldTracker.Application.csproj.AssemblyReference.cache
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/obj/Debug/net9.0/GoldTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/obj/Debug/net9.0/GoldTracker.Application.AssemblyInfoInputs.cache
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/obj/Debug/net9.0/GoldTracker.Application.AssemblyInfo.cs
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/obj/Debug/net9.0/GoldTracker.Application.csproj.CoreCompileInputs.cache
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/obj/Debug/net9.0/GoldTracker.Application.sourcelink.json
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/obj/Debug/net9.0/GoldTrac.7F6694EA.Up2Date
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/obj/Debug/net9.0/GoldTracker.Application.dll
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/obj/Debug/net9.0/refint/GoldTracker.Application.dll
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/obj/Debug/net9.0/GoldTracker.Application.pdb
+/Users/macbook/ClawJobData/ClawJobData/Backend/GoldTracker.Application/obj/Debug/net9.0/ref/GoldTracker.Application.dll
